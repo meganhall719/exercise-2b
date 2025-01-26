@@ -1,0 +1,24 @@
+---
+title: "exercsie-2b"
+author: "Megan"
+format: html
+editor: visual
+---
+
+### Exercise 2
+
+*task 2*
+
+```{mermaid}
+flowchart LR
+  A[r] --> B(learning curve)
+  B --> C{high}
+  C --> D[i'm learning a new language]
+  C --> E[lol]
+```
+
+```{r}
+1+1
+x<-2
+1+x
+```
